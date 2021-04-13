@@ -1,3 +1,4 @@
+package com.sotiris.loizou.battleship;
 
 public class main
 {

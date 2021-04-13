@@ -1,3 +1,5 @@
+package com.sotiris.loizou.battleship;
+
 public class Ship {
     boolean[]shipParts;
     public Ship(ShipType shipType){
